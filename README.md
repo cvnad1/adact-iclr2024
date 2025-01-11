@@ -10,12 +10,10 @@ This repository is an implementation of the Adact activation function as describ
 
 The ADACT activation follows the mathematical formulation:
 
-\[
-\text{AdAct}(x) = \\sum_{i=1}^{5} \\text{softmax}(w)_i \\cdot \\text{Act}_i(x)
-\]
+![AdAct Equation](assets/image.png)
 
 Where:
-- **Activations list**: ReLU, Sigmoid, Tanh, GELU, SiLU
+- **Activations list**: ReLU, ELU, RReLU, PReLU, SiLU, LReLU, Mish
 - The softmax-weighted sum allows the network to dynamically adjust and combine multiple activation functions during training.
 
 ## Usage
