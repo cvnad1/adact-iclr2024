@@ -45,7 +45,7 @@ The custom implementation of ADACT can be found in adact.py. Feel free to custom
 
 
 ## Citation
-
+```
 @inproceedings{adact2025,
   title={Learning to Optimize Activation Function Choice through Adaptive Activation Modules},
   author={Ritabrata Maiti},
@@ -53,7 +53,7 @@ The custom implementation of ADACT can be found in adact.py. Feel free to custom
   year={2024},
   url={[https://openreview.net/pdf?id=ADACT2025](https://openreview.net/pdf?id=M7d5k4AxCE)}
 }
-
+```
 
 ## Licence
 
