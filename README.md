@@ -51,7 +51,7 @@ The custom implementation of ADACT can be found in adact.py. Feel free to custom
   author={Ritabrata Maiti},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2024},
-  url={[https://openreview.net/pdf?id=ADACT2025](https://openreview.net/pdf?id=M7d5k4AxCE)}
+  url={[https://openreview.net/pdf?id=ADACT2024](https://openreview.net/pdf?id=M7d5k4AxCE)}
 }
 ```
 
